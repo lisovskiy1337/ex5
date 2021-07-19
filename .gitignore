@@ -1,0 +1,15 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.vscode
+.github
+.env
+.idea
+ehthumbs.db
+Thumbs.db
+node_modules
+dist
+yarn.lock
+package-lock.json
